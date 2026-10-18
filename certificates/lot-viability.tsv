@@ -1,0 +1,6 @@
+lot_id	species_code	common_name	vault	packets	selected_test_id	counted_on	germination_percent	threshold_percent	decision
+L-101	ALF	Alfalfa	North	120	T913	2026-03-17	83.0	85	HOLD
+L-102	BAS	Basil	East	80	T908	2026-03-14	84.0	80	RELEASE
+L-103	RYE	Ryegrass	North	95	T909	2026-03-09	92.0	90	RELEASE
+L-104	SUN	Sunflower	South	60	T910	2026-03-13	75.0	75	RELEASE
+L-105	BAS	Basil	East	70	T912	2026-03-18	82.0	80	RELEASE
